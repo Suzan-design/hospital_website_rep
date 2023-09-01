@@ -1,0 +1,138 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.nav {
+    background-color: white;
+}
+
+* {
+    direction: rtl;
+}
+
+.modal-header .btn-close {
+  margin-right: 330px;
+}
+
+.modal-body div{
+  color: rgb(6, 66, 6); 
+  font-size: 40px;
+}
+
+.modal-body div i{
+  padding-left: 20px;
+}
+
+body {
+    background-color: white;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 100;
+}
+
+.nav-item {
+    margin: 10px 20px;
+}
+
+.welcome {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Tajawal', sans-serif;
+    color: green;
+    background-color:rgba(180, 255, 151, 0.2);
+}
+
+.container{
+    margin-top: 30px;
+    padding-top: 30px;
+    text-align: right !important;
+}
+
+.container .row .col-md-3{
+    margin-left: 40px;
+    font-size: large;
+  }
+
+  .line1 {
+    margin-left: 50px;
+    padding-left: 50px;
+    margin: 50px 0 40px 40px;
+    flex: 1;
+    background: gray;
+    height: 5px;
+}
+
+.contact_us {
+    margin-top: 50px;
+    font-size: large;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.footer h3 {
+    color: aqua;
+    font-size: large;
+}
+
+.footer a {
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.footer i {
+    padding-left: 20px;
+}
+
+.footer span {
+    padding-left: 20px;
+    font-size: large;
+}
+
+.footer .row .col-md-3 img {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.row h5 {
+    text-align: center;
+    color: white;
+}
+
+.row h5 span {
+    color: aqua;
+}
+
+.line {
+    margin: 30px 0 10px 20px;
+    flex: 1;
+    background: aqua;
+    height: 1px;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.material-symbols-outlined {
+    padding-left: 10px;
+}

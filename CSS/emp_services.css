@@ -1,0 +1,149 @@
+@media (max-width: 768px) {
+    .container-fluid .row .col-md-3 .list-group a img {
+      width: 100%;
+    }
+  
+    .container-fluid .row .col-md-3 .list-group {
+      width: 100%;
+    }
+  }
+  
+  .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: white;
+      z-index: 1000;
+  }
+  
+  .selector-for-some-widget {
+      box-sizing: content-box;
+  }
+  
+  .nav {
+      background-color: white;
+  }
+  
+  * {
+      direction: rtl;
+  }
+  
+  .modal-header .btn-close {
+    margin-right: 330px;
+  }
+  
+  .modal-body div{
+    color: rgb(6, 66, 6); 
+    font-size: 40px;
+  }
+  
+  .modal-body div i{
+    padding-left: 20px;
+  }
+  
+  body {
+      background-color: white;
+      font-family: 'Tajawal', sans-serif;
+      font-weight: 100;
+  }
+  
+  .nav-item {
+      margin: 10px 20px;
+  }
+  
+  .services {
+      padding-top: 50px;
+      padding-bottom: 30px;
+      text-align: center;
+      font-weight: bolder;
+      font-size: xx-large;
+      font-family: 'Tajawal', sans-serif;
+      color: green;
+  }
+  
+  .list-group {
+      width: max-content;
+  }
+  
+  ul {
+      list-style: none;
+  }
+  
+  .list-group-item {
+      margin-bottom: 20px;
+  
+  
+  }
+  
+  .second_service {
+      padding-top: 200px;
+      font-size: 90px;
+  }
+  
+  .second_service h1 {
+      padding-bottom: 20px;
+      animation: bouncing 0.5s;
+  }
+  
+  .first_service .container .whatsapp {
+    padding-left: 170px;
+    font-size: 100px;
+  }
+  
+  .elem {
+    font-size: larger;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: blue;
+    color: white;
+  }
+  
+  .footer h3 {
+    color: aqua;
+    font-size: large;
+  }
+  
+  .footer a {
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .footer i {
+    padding-left: 20px;
+  }
+  
+  .footer .row .col-md-3 img {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+  }
+
+  .row h5 {
+    text-align: center;
+    color: white;
+}
+
+.row h5 span {
+    color: aqua;
+}
+  
+  .line {
+    margin: 30px 0 10px 20px;
+    flex: 1;
+    background: aqua;
+    height: 1px;
+  }
+  
+  .container-fluid {
+      width: 100%;
+  }
+  
+  .material-symbols-outlined {
+      padding-left: 10px;
+  }
+  

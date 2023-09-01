@@ -1,0 +1,133 @@
+@media (max-width: 414px) {
+  .container-fluid .row .col-md-6 .detail {
+    font-weight: bold;
+    font-size: medium;
+}
+  body .news,
+  body .about {
+    font-weight: bolder;
+    font-size: medium;
+}
+
+  }
+
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+}
+
+.nav {
+    background-color: white;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.carousel-item img {
+    display: flex;
+    background-size: cover;
+}
+
+.modal-header .btn-close {
+    margin-right: 330px;
+  }
+  
+  .modal-body div{
+    color: rgb(6, 66, 6); 
+    font-size: 40px;
+  }
+  
+  .modal-body div i{
+    padding-left: 20px;
+  }
+
+* {
+    direction: rtl;
+}
+
+body {
+    background-color: white;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.nav-item {
+    margin: 10px 20px;
+}
+
+img {
+    background-size: cover;
+}
+
+.carousel-caption {
+    font-family: 'Tajawal', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.detail {
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+}
+
+.news,
+.about {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Tajawal', sans-serif;
+    color: green;
+    background-color:rgba(180, 255, 151, 0.2) !important;
+}
+
+.footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: blue;
+    color: white;
+  }
+  
+  .footer h3 {
+    color: aqua;
+    font-size: large;
+  }
+  
+  .footer a {
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .footer i {
+    padding-left: 20px;
+  }
+  
+  .footer .row .col-md-3 img {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+  }
+
+  .row h5 {
+    text-align: center;
+    color: white;
+}
+
+.row h5 span {
+    color: aqua;
+}
+
+.line {
+    margin: 30px 0 10px 20px;
+    flex: 1;
+    background: aqua;
+    height: 1px;
+}
